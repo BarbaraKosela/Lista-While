@@ -1,0 +1,6 @@
+c:\users\104962\documents\visual studio 2013\Projects\ExemploWhile\ExemploWhile\bin\Debug\ExemploWhile.exe.config
+c:\users\104962\documents\visual studio 2013\Projects\ExemploWhile\ExemploWhile\obj\Debug\ExemploWhile.csprojResolveAssemblyReference.cache
+c:\users\104962\documents\visual studio 2013\Projects\ExemploWhile\ExemploWhile\bin\Debug\ExemploWhile.exe
+c:\users\104962\documents\visual studio 2013\Projects\ExemploWhile\ExemploWhile\bin\Debug\ExemploWhile.pdb
+c:\users\104962\documents\visual studio 2013\Projects\ExemploWhile\ExemploWhile\obj\Debug\ExemploWhile.exe
+c:\users\104962\documents\visual studio 2013\Projects\ExemploWhile\ExemploWhile\obj\Debug\ExemploWhile.pdb
